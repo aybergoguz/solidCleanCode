@@ -1,2 +1,2 @@
-# solidCleanCode
-Clean code and Solid example
+# Solid ve temiz kod örneği
+Temiz kod ve Solid örnek
